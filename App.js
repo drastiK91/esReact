@@ -37,7 +37,7 @@ class App extends React.Component{
         this.state = {
             red:0,
             value: 0
-        }
+        } 
         this.update = this.update.bind(this);
     }
     update(e){
